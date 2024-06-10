@@ -1,8 +1,9 @@
 {
+    "display": "browser",
     "scope": "/",
     "start_url": "/",
     "name": "pwa",
-    "short_name": "pwa",
+    "short_name": "pw",
     "description": "pwa app with nextJs",
     "icons": [
         {
